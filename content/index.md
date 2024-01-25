@@ -1,6 +1,20 @@
 ---
-title: Welcome to Quartz
+pageno: 00.01
+slug: "home"
 ---
+# <span style="color:red; font-size:1em"><b>C</b>oherent   <b>D</b>ecision<b>S</b>olutions  (<b>CDSolns</b>)</span>
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[Welcome to Coherent Decision Solutions]]
+
+
+# Latest [[98-Websites/Website-CDSolns/published/Blog/Blog Index|Blog]] Posts
+![[2020-10-21_A systems engineer-What do you do]]
+![[2020-10-09_MBSE is the model NOT the tool]]
+
+#### [[Resources]]
+
+
+
+
+
+
