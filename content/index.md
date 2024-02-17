@@ -2,7 +2,6 @@
 title: Coherent Decision Solutions
 date: 2024-01-26
 ---
-# <span style="color:red; font-size:1em"><b>C</b>oherent   <b>D</b>ecision <b>S</b>olutions  (<b>CDSolns</b>)</span>
 
 ![[Welcome to Coherent Decision Solutions]]
 
