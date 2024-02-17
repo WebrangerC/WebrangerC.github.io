@@ -1,7 +1,8 @@
 # MBSE is the model, NOT the tool
 
 “_The systems metamodel, the system model, and the executable model are within the purview of the systems engineer and MBSE. The simulation, physical and design models are in the purview of the detail engineers, and when combined with MBSE through the systems metamodel, form a digital engineering environment. So, the “M” in MBSE actually refers to the systems metamodel. It is through the systems metamodel that we improve the conduct of systems engineering by focusing on producing an effective system model and thereby refocusing away from the document-based systems engineering approach as the basis of systems design._ “  
-[Source: [http://community.vitechcorp.com/index.php/mbse-system-models-executable-models-and-more.aspx](http://community.vitechcorp.com/index.php/mbse-system-models-executable-models-and-more.aspx) MBSE: Systems Models, Executable Models and More by Mark Simons Posted on Octoer 24, 2019 ]
+Source:  [MBSE Primer - Vitech](https://vitechcorp.com/mbse-primer/) 
+Also:  [MBSE: System Models, Executable Models, and More – Mark Simons Posted on October 24, 2019](https://systems-wise.com/mbse-system-models-executable-models-and-more/) 
 
 **I agree with this and there are two implication:**
 
