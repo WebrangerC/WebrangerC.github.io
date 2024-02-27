@@ -5,7 +5,9 @@ published: 2020-04-22
 
 # The Open Decision Tool Demonstrator (odt-demo)
 
-**The tool can be accessed via this link:** [**odt-demo beta release**](https://odt-demo.herokuapp.com)
+>[!info]+ The Open Decision Tool Demonstrator is not longer available on-line
+> Source is available at:  [Open Decision Tool - gitlab](https://gitlab.com/open-decision-tool/odt-demo) 
+
 
 **I'm developing this project to demonstrate Structured Decision (Making and) Management and the integration of SDM in systems engineering and life. While the methodology can be executed on paper or by spreadsheet, it is a bit tedious without a database and collaborative decision-making is substantially enhanced by broader accessibility.  
 Goals:**
