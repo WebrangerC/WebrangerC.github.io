@@ -120,12 +120,13 @@
 
 .callout-title {
   display: flex;
+  font-size: 1.5rem;
   align-items: flex-start;
   gap: 5px;
   padding: 1rem 0;
   color: var(--color);
 
-  --icon-size: 18px;
+  --icon-size: 24px;
 
   & .fold-callout-icon {
     transition: transform 0.15s ease;
