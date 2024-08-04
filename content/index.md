@@ -7,9 +7,9 @@ date: 2024-01-26
 
 # Latest [[Blog/Blog Index|Blog]] Posts
 
-#### [[Resources]]
+# [[Resources|Resource List]]
 
-
+# Learn more [[About]] us
 
 
 
