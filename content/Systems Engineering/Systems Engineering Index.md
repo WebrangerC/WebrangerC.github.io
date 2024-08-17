@@ -7,3 +7,4 @@ published: 2024-08-17
 
 ### [[SyE – Another Perspective|Systems Engineering – Another Perspective]]
 ### [[What is a system]]
+### [[Source Highlights and Interpretations]]
