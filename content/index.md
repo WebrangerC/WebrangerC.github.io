@@ -5,11 +5,19 @@ date: 2024-01-26
 
 ![[Welcome to Coherent Decision Solutions]]
 
-# Latest [[Blog/Blog Index|Blog]] Posts
+Thanks for stopping by.  
+Bruce Lerner   
+(Learn more [[About| About CDS]])
 
-# [[Resources|Resource List]]
+---
+## What's New  - 2024-08-16
+Substantial site reorganization to support some upcoming projects
 
-# Learn more [[About]] us
+---
+## Quick Links
+### [[Blog Index|Blog Posts]]  -  [[SDMRM|Structured Decision Management/Risk Management]]  -  [[Systems Engineering Index|Systems Engineering]]  -  [[Resources]] 
+
+
 
 
 

@@ -1,12 +1,13 @@
 ---
 created: 2019-10-31
-published: 2019-10-31
+published: ""
+updated: 2024-08-15
+note: this was a draft replacement for use on the landing page. Never published
 ---
 
-My introduction to structured decision management was in an engineering context. Engineering is about making good decisions based on the requirements of the problem and the constraints of the environment. There are lots of 'hard parts' to doing engineering successfully, but in essence, it is about having good data (including needs/requirements), understanding constraints and applying them to problem solving. I have  found that this is also true for life in general.
+I have two focus areas of interest:  [[Systems Engineering Index|Systems Engineering]] and [[SDMRM|Decision Management]].
+My goals are to promote Systems Engineering as a discipline that applies Systems Science techniques to define itself for the future and to promote Structured Decision Management as a fundamental technique that can be used in this and many other endeavors. 
 
-The framework for structured decision management is not complex and can be applied consistently across a number of domains. While not complex itself, challenging goals can be addressed with an effort commensurate with the complexity of the goal and complications of the data acquisition process. *
+###### Caveat 
+**My observations are limited to my experiences and research and  may be biased. Your experiences may corroborate or contradict my conclusions and I appreciate the opportunity to discuss  your perspectives and ideas. I can be contacted on [LinkedIn](https://www.linkedin.com/in/bruceplerner/) , on the [Systems Engineering Professionals server on Discord](https://discord.gg/RwvxH5HD) or by [email](mailto:bruce.lerner@cdsolns.com)** 
 
-My goal is to provide training for techniques and tools that support structured decision making/decision management in life, innovation and development processes. Not surprisingly, these activities can be related through our decision management framework.
-
-* My observations and comments may be biased or limited to my experiences. Your experiences may corroborate or contradict my conclusions but the framework should help in that assessment.

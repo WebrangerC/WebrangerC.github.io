@@ -3,7 +3,7 @@ import * as Component from "./quartz/components"
 
 
 const explorerFilterFn = (node: FileNode) => {
-  return !["_resources","Pages"].some((path) => node.name.includes(path))
+  return !["_resources","Pages","HiddenResources"].some((path) => node.name.includes(path))
 }
 
 // components shared across all pages

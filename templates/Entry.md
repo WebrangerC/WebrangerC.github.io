@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
-date: 
+title: 
+created: "{{date}}"
 draft: false
 ---

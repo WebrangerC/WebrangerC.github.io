@@ -16,4 +16,4 @@ However, to be useful, selecting a relevant scope is necessary. I personally foc
 The scope of a system defines its boundary. If you define your scope, it can be determined if your system is a sub-system, super-system or coordinating independent system which aids in the definition of role and responsibility of your system. Interacting with entities outside the system scope indicates needed interfaces and and leads to the definition of required functions.
 
   
-[[Systems Engineering – Another Perspective on its short history]] ⬅  ✴  ➡  [[What are we REALLY doing]] 
+[[SyE – Another Perspective]] ⬅  ✴  ➡  [[What are we REALLY doing]] 
